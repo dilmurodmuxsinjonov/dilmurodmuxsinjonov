@@ -18,13 +18,13 @@ I'm Dilmurod, an **Information Systems & Technologies student** at Tashkent Inte
   <tr>
     <td width="50%" valign="top">
       <sub>01 / DEVELOPER TOOLS</sub>
-      <h4><a href="https://github.com/dilmurodmuxsinjonov/antigravity-dynamic-skills">Antigravity Dynamic Skills ↗</a></h4>
+      <h4><a href="https://github.com/dilmurodmuxsinjonov/antigravity-dynamic-skills">Antigravity Dynamic Skills</a></h4>
       <p>A local skill library and synchronization workflow for AI agents.</p>
       <sub>PowerShell · Developer tooling</sub>
     </td>
     <td width="50%" valign="top">
       <sub>02 / MEDIA TOOLS</sub>
-      <h4><a href="https://github.com/dilmurodmuxsinjonov/MediaKonverter">MediaKonverter ↗</a></h4>
+      <h4><a href="https://github.com/dilmurodmuxsinjonov/MediaKonverter">MediaKonverter</a></h4>
       <p>Convert PNG sequences to WebM while preserving transparency.</p>
       <sub>Python · Flask · FFmpeg</sub>
     </td>
@@ -32,13 +32,13 @@ I'm Dilmurod, an **Information Systems & Technologies student** at Tashkent Inte
   <tr>
     <td width="50%" valign="top">
       <sub>03 / WEB</sub>
-      <h4><a href="https://github.com/dilmurodmuxsinjonov/elementpaint">Element Paint ↗</a></h4>
+      <h4><a href="https://github.com/dilmurodmuxsinjonov/elementpaint">Element Paint</a></h4>
       <p>A static product catalog with responsive interfaces and visual details.</p>
       <sub>HTML · CSS · JavaScript</sub>
     </td>
     <td width="50%" valign="top">
       <sub>04 / GAME PROTOTYPE</sub>
-      <h4><a href="https://github.com/dilmurodmuxsinjonov/my-game">Voxel Lord: Feudal Realm ↗</a></h4>
+      <h4><a href="https://github.com/dilmurodmuxsinjonov/my-game">Voxel Lord: Feudal Realm</a></h4>
       <p>A voxel sandbox and colony simulation project, developed as a prototype.</p>
       <sub>Godot · GDScript · Python</sub>
     </td>
