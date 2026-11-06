@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://t.me/dilmurod_muhsinjanov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/dilmurod-muhsinjanov-dm093zz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-    <a href="https://github.com/dilmurodmuhsinjanov910-byte"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/dilmurodmuxsinjonov"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 </div>
 
@@ -56,21 +56,21 @@
 
 | Repository | Description | Primary Tech | Status |
 | :--- | :--- | :---: | :---: |
-| ⚡ **[antigravity-dynamic-skills](https://github.com/dilmurodmuhsinjanov910-byte/antigravity-dynamic-skills)** | Localized skill manager for AI agents optimizing token usage and offline access | `PowerShell` | 🟢 Active |
-| 🎬 **[MediaKonverter](https://github.com/dilmurodmuhsinjanov910-byte/MediaKonverter)** | Convert transparent PNG sequences into high-quality WebM videos with alpha channel | `Python` | 🟢 Stable |
-| 🌐 **[smart-waste-tracker](https://github.com/dilmurodmuhsinjanov910-byte/smart-waste-tracker)** | Modern responsive web application for monitoring and tracking environmental waste | `JavaScript` | 🟢 Active |
-| 🏛️ **[eventhub](https://github.com/dilmurodmuhsinjanov910-byte/eventhub)** | Event management and discovery platform frontend | `JavaScript` | 🟢 Active |
+| ⚡ **[antigravity-dynamic-skills](https://github.com/dilmurodmuxsinjonov/antigravity-dynamic-skills)** | Localized skill manager for AI agents optimizing token usage and offline access | `PowerShell` | 🟢 Active |
+| 🎬 **[MediaKonverter](https://github.com/dilmurodmuxsinjonov/MediaKonverter)** | Convert transparent PNG sequences into high-quality WebM videos with alpha channel | `Python` | 🟢 Stable |
+| 🌐 **[smart-waste-tracker](https://github.com/dilmurodmuxsinjonov/smart-waste-tracker)** | Modern responsive web application for monitoring and tracking environmental waste | `Python / Django` | 🟢 Active |
+| 🏛️ **[eventhub](https://github.com/dilmurodmuxsinjonov/eventhub)** | Event management and discovery platform frontend | `JavaScript` | 🟢 Active |
 
 ---
 
 <h3 align="center">📊 GitHub Metrics</h3>
 
 <div align="center">
-  <a href="https://github.com/dilmurodmuhsinjanov910-byte">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dilmurodmuhsinjanov910-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="GitHub Stats" />
+  <a href="https://github.com/dilmurodmuxsinjonov">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dilmurodmuxsinjonov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/dilmurodmuhsinjanov910-byte">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dilmurodmuhsinjanov910-byte&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
+  <a href="https://github.com/dilmurodmuxsinjonov">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dilmurodmuxsinjonov&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
   </a>
 </div>
 
