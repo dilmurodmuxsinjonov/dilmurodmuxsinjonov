@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Dilmurod — software, automation and creative tools</title>
+  <desc id="desc">A dark graphite profile banner with restrained mint accents and an orbital monogram.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111b26"/><stop offset="1" stop-color="#090d14"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#72d5c4" stop-opacity=".12"/><stop offset="1" stop-color="#72d5c4" stop-opacity="0"/></radialGradient>
+    <linearGradient id="line"><stop stop-color="#72d5c4" stop-opacity=".7"/><stop offset="1" stop-color="#72d5c4" stop-opacity=".08"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="348" rx="24" fill="url(#bg)" stroke="#253441"/>
+  <circle cx="1025" cy="172" r="205" fill="url(#glow)"/>
+  <path d="M784 1v348M844 1v348M904 1v348M964 1v348M1024 1v348M1084 1v348M1144 1v348M784 55h415M784 115h415M784 175h415M784 235h415M784 295h415" stroke="#91a9bb" stroke-opacity=".035"/>
+  <rect x="64" y="49" width="28" height="3" rx="1.5" fill="#86dfcc"/>
+  <text x="105" y="55" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2.8" fill="#9bb0c2">SOFTWARE · AUTOMATION · CREATIVE TOOLS</text>
+  <text x="60" y="174" font-family="Segoe UI,Arial,sans-serif" font-size="91" font-weight="650" letter-spacing="-4" fill="#edf4fa">Dilmurod<tspan fill="#86dfcc">.</tspan></text>
+  <text x="64" y="224" font-family="Segoe UI,Arial,sans-serif" font-size="25" fill="#a8bacb">Turning ideas into useful tools.</text>
+  <path d="M64 271h672" stroke="#263744"/>
+  <text x="64" y="305" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2.3" fill="#7e95a8">TASHKENT, UZBEKISTAN</text>
+  <text x="736" y="305" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.8" fill="#7e95a8">LEARNING THROUGH BUILDING</text>
+  <g transform="translate(1000 174)">
+    <circle r="108" fill="none" stroke="#86dfcc" stroke-opacity=".13"/>
+    <ellipse rx="137" ry="52" transform="rotate(-35)" fill="none" stroke="url(#line)"/>
+    <ellipse rx="137" ry="52" transform="rotate(35)" fill="none" stroke="#86dfcc" stroke-opacity=".15"/>
+    <circle r="61" fill="#14212b" fill-opacity=".85" stroke="#45685f"/>
+    <circle r="52" fill="none" stroke="#86dfcc" stroke-opacity=".08"/>
+    <text y="12" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="600" letter-spacing="-1" fill="#b8e6db">dm</text>
+    <circle cx="88" cy="-63" r="5" fill="#9ae5d3"/>
+    <circle cx="-89" cy="62" r="3" fill="#658c84"/>
+  </g>
+</svg>
