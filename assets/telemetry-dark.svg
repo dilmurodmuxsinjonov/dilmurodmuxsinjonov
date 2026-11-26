@@ -24,15 +24,15 @@
   <line x1="790" y1="64" x2="790" y2="242" stroke="#FFFFFF" stroke-opacity="0.08"/>
 
   <!-- Column 1: Contribution Ledger -->
-  <text x="36" y="114" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="400" letter-spacing="-1" fill="#F1F1EE">540</text>
+  <text x="36" y="114" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="400" letter-spacing="-1" fill="#F1F1EE">545</text>
   <text x="36" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9699A0">contributions across the last 12 months</text>
 
   <line x1="36" y1="198" x2="380" y2="198" stroke="#FFFFFF" stroke-opacity="0.08"/>
 
   <text x="36" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">Commits</text>
-  <text x="190" y="180" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">359</text>
+  <text x="190" y="180" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">363</text>
   <text x="214" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">Pull Requests</text>
-  <text x="380" y="180" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">62</text>
+  <text x="380" y="180" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">63</text>
 
   <text x="36" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">Issues</text>
   <text x="190" y="222" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">59</text>
@@ -41,7 +41,7 @@
 
   <!-- Column 2: 12-Week Cadence -->
   <text x="442" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="2" fill="#B9BDC2">12-WEEK CADENCE</text>
-  <text x="758" y="82" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" letter-spacing="1.4" fill="#C9A86A">PEAK 195/WK</text>
+  <text x="758" y="82" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" letter-spacing="1.4" fill="#C9A86A">PEAK 194/WK</text>
   <rect x="442" y="133" width="18" height="61" rx="2" fill="#A3A8B0"/>
   <rect x="469" y="153" width="18" height="41" rx="2" fill="#4A4E56"/>
   <rect x="496" y="140" width="18" height="54" rx="2" fill="#A3A8B0"/>
@@ -53,7 +53,7 @@
   <rect x="658" y="180" width="18" height="14" rx="2" fill="#4A4E56"/>
   <rect x="685" y="190" width="18" height="4" rx="2" fill="#222429"/>
   <rect x="712" y="174" width="18" height="20" rx="2" fill="#4A4E56"/>
-  <rect x="739" y="179" width="18" height="15" rx="2" fill="#4A4E56"/>
+  <rect x="739" y="176" width="18" height="18" rx="2" fill="#4A4E56"/>
   <line x1="442" y1="196" x2="758" y2="196" stroke="#FFFFFF" stroke-opacity="0.08"/>
   <text x="442" y="226" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9699A0">21 public repositories · 39 stars</text>
 
