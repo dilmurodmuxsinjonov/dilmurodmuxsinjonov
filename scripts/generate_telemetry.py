@@ -97,7 +97,7 @@ THEMES: dict[str, Theme] = {
         hairline_opacity="0.08",
         text_primary="#F1F1EE",
         text_secondary="#B9BDC2",
-        text_muted="#767676",
+        text_muted="#9699A0",
         accent_gold="#C9A86A",
         bar_mid="#A3A8B0",
         bar_low="#4A4E56",
@@ -114,7 +114,7 @@ THEMES: dict[str, Theme] = {
         hairline_opacity="1",
         text_primary="#141413",
         text_secondary="#4E4D49",
-        text_muted="#7A7770",
+        text_muted="#64615A",
         accent_gold="#9E7B3B",
         bar_mid="#5D5A54",
         bar_low="#B2AEA5",
@@ -265,7 +265,8 @@ def _render_cadence_bars(metrics: TelemetryMetrics, theme: Theme) -> str:
             fill = theme.bar_zero
         else:
             ratio = count / peak
-            height = max(6, round(ratio * max_height))
+            scaled = ratio ** 0.65
+            height = max(8, round(scaled * max_height))
             if count == peak:
                 fill = theme.accent_gold
             elif ratio >= 0.45:
@@ -365,8 +366,8 @@ def render_telemetry_svg(metrics: TelemetryMetrics, theme: Theme) -> str:
   <rect x="0.5" y="0.5" width="1199" height="263" rx="6" fill="url(#telemetryBg)" stroke="{theme.border}" stroke-opacity="{theme.border_opacity}"/>
 
   <!-- Top bar -->
-  <circle cx="36" cy="24" r="3" fill="{theme.accent_gold}"/>
-  <text x="48" y="28" font-family="{FONT_MONO}" font-size="11" font-weight="500" letter-spacing="2.2" fill="{theme.text_secondary}">GITHUB TELEMETRY &#183; 12-MONTH WINDOW</text>
+  <rect x="36" y="23" width="16" height="2" rx="1" fill="{theme.accent_gold}"/>
+  <text x="62" y="28" font-family="{FONT_MONO}" font-size="11" font-weight="500" letter-spacing="2.2" fill="{theme.text_secondary}">GITHUB TELEMETRY &#183; 12-MONTH WINDOW</text>
   <text x="1164" y="28" text-anchor="end" font-family="{FONT_MONO}" font-size="11" font-weight="500" letter-spacing="1.4" fill="{theme.text_muted}">{last_act}</text>
   <line x1="0" y1="46" x2="1200" y2="46" stroke="{theme.hairline}" stroke-opacity="{theme.hairline_opacity}"/>
 
