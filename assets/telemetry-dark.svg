@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="264" viewBox="0 0 1200 264" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Engineering Telemetry</title>
+  <desc id="desc">Self-hosted 12-month contribution ledger, 12-week cadence, and owned repository language mix.</desc>
+  <defs>
+    <linearGradient id="telemetryBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0B0D"/>
+      <stop offset="100%" stop-color="#070708"/>
+    </linearGradient>
+    <clipPath id="langClip">
+      <rect x="822" y="102" width="342" height="8" rx="4"/>
+    </clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="1199" height="263" rx="6" fill="url(#telemetryBg)" stroke="#FFFFFF" stroke-opacity="0.10"/>
+
+  <!-- Top bar -->
+  <circle cx="36" cy="24" r="3" fill="#C9A86A"/>
+  <text x="48" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" letter-spacing="2.2" fill="#B9BDC2">GITHUB TELEMETRY &#183; 12-MONTH WINDOW</text>
+  <text x="1164" y="28" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" letter-spacing="1.4" fill="#767676">LAST ACTIVITY · 2026-11-26</text>
+  <line x1="0" y1="46" x2="1200" y2="46" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <!-- 3-Column Swiss grid dividers -->
+  <line x1="410" y1="64" x2="410" y2="242" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <line x1="790" y1="64" x2="790" y2="242" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <!-- Column 1: Contribution Ledger -->
+  <text x="36" y="114" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="400" letter-spacing="-1" fill="#F1F1EE">528</text>
+  <text x="36" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#767676">contributions across the last 12 months</text>
+
+  <line x1="36" y1="198" x2="380" y2="198" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <text x="36" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">Commits</text>
+  <text x="190" y="180" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">351</text>
+  <text x="214" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">Pull Requests</text>
+  <text x="380" y="180" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">60</text>
+
+  <text x="36" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">Issues</text>
+  <text x="190" y="222" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">57</text>
+  <text x="214" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">Reviews</text>
+  <text x="380" y="222" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">38</text>
+
+  <!-- Column 2: 12-Week Cadence -->
+  <text x="442" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="2" fill="#B9BDC2">12-WEEK CADENCE</text>
+  <text x="758" y="82" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" letter-spacing="1.4" fill="#C9A86A">PEAK 195/WK</text>
+  <rect x="442" y="144" width="18" height="50" rx="2" fill="#A3A8B0"/>
+  <rect x="469" y="166" width="18" height="28" rx="2" fill="#4A4E56"/>
+  <rect x="496" y="152" width="18" height="42" rx="2" fill="#A3A8B0"/>
+  <rect x="523" y="108" width="18" height="86" rx="2" fill="#C9A86A"/>
+  <rect x="550" y="188" width="18" height="6" rx="2" fill="#4A4E56"/>
+  <rect x="577" y="190" width="18" height="4" rx="2" fill="#222429"/>
+  <rect x="604" y="188" width="18" height="6" rx="2" fill="#4A4E56"/>
+  <rect x="631" y="190" width="18" height="4" rx="2" fill="#222429"/>
+  <rect x="658" y="188" width="18" height="6" rx="2" fill="#4A4E56"/>
+  <rect x="685" y="190" width="18" height="4" rx="2" fill="#222429"/>
+  <rect x="712" y="185" width="18" height="9" rx="2" fill="#4A4E56"/>
+  <rect x="739" y="188" width="18" height="6" rx="2" fill="#4A4E56"/>
+  <line x1="442" y1="196" x2="758" y2="196" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="442" y="226" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#767676">21 public repositories · 39 stars</text>
+
+  <!-- Column 3: Language Mix -->
+  <text x="822" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="2" fill="#B9BDC2">LANGUAGE MIX</text>
+  <text x="1164" y="82" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" letter-spacing="1.4" fill="#767676">OWNED REPOS</text>
+  <g clip-path="url(#langClip)">
+    <rect x="822" y="102" width="108" height="8" fill="#C9A86A"/>
+    <rect x="932" y="102" width="58" height="8" fill="#E6E4DE"/>
+    <rect x="992" y="102" width="49" height="8" fill="#A3A8B0"/>
+    <rect x="1043" y="102" width="49" height="8" fill="#6F747D"/>
+    <rect x="1094" y="102" width="45" height="8" fill="#4A4E56"/>
+    <rect x="1141" y="102" width="23" height="8" fill="#3E434C"/>
+  </g>
+  <rect x="822" y="129" width="8" height="8" rx="2" fill="#C9A86A"/>
+  <text x="837" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">Python</text>
+  <text x="982" y="138" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">32.3%</text>
+  <rect x="1004" y="129" width="8" height="8" rx="2" fill="#E6E4DE"/>
+  <text x="1019" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">JavaScript</text>
+  <text x="1164" y="138" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">17.6%</text>
+  <rect x="822" y="163" width="8" height="8" rx="2" fill="#A3A8B0"/>
+  <text x="837" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">HTML</text>
+  <text x="982" y="172" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">14.9%</text>
+  <rect x="1004" y="163" width="8" height="8" rx="2" fill="#6F747D"/>
+  <text x="1019" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">GDScript</text>
+  <text x="1164" y="172" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">14.9%</text>
+  <rect x="822" y="197" width="8" height="8" rx="2" fill="#4A4E56"/>
+  <text x="837" y="206" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">TypeScript</text>
+  <text x="982" y="206" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">13.5%</text>
+  <rect x="1004" y="197" width="8" height="8" rx="2" fill="#3E434C"/>
+  <text x="1019" y="206" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">Other</text>
+  <text x="1164" y="206" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">6.8%</text>
+</svg>
