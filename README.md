@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile-header-light.svg" />
-    <img src="assets/profile-header-dark.svg" width="100%" alt="Dilmurod Muhsinjonov — Software, Automation and Digital Systems" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/profile-header-light.png" />
+    <img src="assets/profile-header-dark.png" width="100%" alt="Dilmurod Muhsinjonov — Software, Automation and Digital Systems" />
   </picture>
 </p>
 
