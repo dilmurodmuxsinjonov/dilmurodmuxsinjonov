@@ -24,15 +24,15 @@
   <line x1="790" y1="64" x2="790" y2="242" stroke="#FFFFFF" stroke-opacity="0.08"/>
 
   <!-- Column 1: Contribution Ledger -->
-  <text x="36" y="114" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="400" letter-spacing="-1" fill="#F1F1EE">528</text>
+  <text x="36" y="114" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="400" letter-spacing="-1" fill="#F1F1EE">534</text>
   <text x="36" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#767676">contributions across the last 12 months</text>
 
   <line x1="36" y1="198" x2="380" y2="198" stroke="#FFFFFF" stroke-opacity="0.08"/>
 
   <text x="36" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">Commits</text>
-  <text x="190" y="180" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">351</text>
+  <text x="190" y="180" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">356</text>
   <text x="214" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">Pull Requests</text>
-  <text x="380" y="180" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">60</text>
+  <text x="380" y="180" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">61</text>
 
   <text x="36" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">Issues</text>
   <text x="190" y="222" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#F1F1EE">57</text>
@@ -41,10 +41,10 @@
 
   <!-- Column 2: 12-Week Cadence -->
   <text x="442" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="2" fill="#B9BDC2">12-WEEK CADENCE</text>
-  <text x="758" y="82" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" letter-spacing="1.4" fill="#C9A86A">PEAK 195/WK</text>
-  <rect x="442" y="144" width="18" height="50" rx="2" fill="#A3A8B0"/>
+  <text x="758" y="82" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" letter-spacing="1.4" fill="#C9A86A">PEAK 194/WK</text>
+  <rect x="442" y="143" width="18" height="51" rx="2" fill="#A3A8B0"/>
   <rect x="469" y="166" width="18" height="28" rx="2" fill="#4A4E56"/>
-  <rect x="496" y="152" width="18" height="42" rx="2" fill="#A3A8B0"/>
+  <rect x="496" y="151" width="18" height="43" rx="2" fill="#A3A8B0"/>
   <rect x="523" y="108" width="18" height="86" rx="2" fill="#C9A86A"/>
   <rect x="550" y="188" width="18" height="6" rx="2" fill="#4A4E56"/>
   <rect x="577" y="190" width="18" height="4" rx="2" fill="#222429"/>
@@ -70,16 +70,16 @@
   </g>
   <rect x="822" y="129" width="8" height="8" rx="2" fill="#C9A86A"/>
   <text x="837" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">Python</text>
-  <text x="982" y="138" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">32.3%</text>
+  <text x="982" y="138" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">32.5%</text>
   <rect x="1004" y="129" width="8" height="8" rx="2" fill="#E6E4DE"/>
   <text x="1019" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">JavaScript</text>
-  <text x="1164" y="138" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">17.6%</text>
+  <text x="1164" y="138" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">17.5%</text>
   <rect x="822" y="163" width="8" height="8" rx="2" fill="#A3A8B0"/>
   <text x="837" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">HTML</text>
   <text x="982" y="172" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">14.9%</text>
   <rect x="1004" y="163" width="8" height="8" rx="2" fill="#6F747D"/>
   <text x="1019" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">GDScript</text>
-  <text x="1164" y="172" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">14.9%</text>
+  <text x="1164" y="172" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">14.8%</text>
   <rect x="822" y="197" width="8" height="8" rx="2" fill="#4A4E56"/>
   <text x="837" y="206" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#B9BDC2">TypeScript</text>
   <text x="982" y="206" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#F1F1EE">13.5%</text>
